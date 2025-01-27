@@ -19,7 +19,8 @@
     "@tauri-apps/api": "^2",
     "@tauri-apps/plugin-opener": "^2",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "xgplayer": "^3.0.0-alpha.146"
   },
   "devDependencies": {
     "@tauri-apps/cli": "^2.1.0",
